@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(95,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(99,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(107,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(121,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(137,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(154,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(170,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(249,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(250,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(258,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(259,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  Menuu.cpp
+C:\Users\eslam\Downloads\Compressed\first\fProject1\Menuu.cpp(20,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  menuu2.cpp
+C:\Users\eslam\Downloads\Compressed\first\fProject1\menuu2.cpp(13,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\eslam\Downloads\Compressed\first\fProject1\menuu2.cpp(20,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

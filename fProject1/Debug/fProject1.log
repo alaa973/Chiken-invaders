@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(122,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(126,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(134,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(148,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(164,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(172,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(180,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(189,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(204,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(220,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(311,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(312,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(320,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eslam\Downloads\Compressed\first\fProject1\main.cpp(321,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  fProject1.vcxproj -> C:\Users\eslam\Downloads\Compressed\first\Debug\fProject1.exe
